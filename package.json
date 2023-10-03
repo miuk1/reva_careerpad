@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.10",
-    "autoprefixer": "^7.2.6"
+    "autoprefixer": "^10.4.16"
   }
 }
